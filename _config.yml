@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://outlineworld.github.io
+title: outline
+tagline: The shape of our world
+description: Looking back to look forward.
+paginate: 5
